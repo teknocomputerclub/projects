@@ -1,2 +1,2 @@
-# projects
-CSC projects
+# Projects
+
